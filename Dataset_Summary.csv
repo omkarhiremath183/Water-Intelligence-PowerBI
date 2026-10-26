@@ -1,0 +1,7 @@
+File,Rows,Columns
+Customers.csv,1200,5
+Regions.csv,5,3
+Invoices.csv,14415,7
+Consumption.csv,24388,4
+Complaints.csv,1400,7
+Date.csv,1096,8
